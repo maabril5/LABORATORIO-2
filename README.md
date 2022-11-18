@@ -36,6 +36,19 @@ Los materiales necesarios realizar el laboratorio 2 son:
 
 ![image](https://user-images.githubusercontent.com/117920423/202619717-057954c3-4389-4e50-95f3-694e746e2551.png)
 
+Figura 3.1. Circuito para el análisis de mallas.
+
+3.1. Se construyó el circuito en el laboratorio virtual Tinkercad y también físicamente.
+
+![image](https://user-images.githubusercontent.com/117920423/202632375-54e3f4d1-e84d-4977-afca-5e7755600423.png)
+
+![image](https://user-images.githubusercontent.com/117920423/202632861-e4df229a-2d17-4074-a282-c898482f23f4.png)
+
+![image](https://user-images.githubusercontent.com/117920423/202632932-84e358c4-b522-4e0d-837c-9e2e7f870d77.png)
+
+![image](https://user-images.githubusercontent.com/117920423/202633019-9082f813-dd03-4518-a649-0077da5c9607.png)
+
+
 
 
 
