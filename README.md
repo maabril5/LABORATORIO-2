@@ -66,6 +66,33 @@ Cálculos Analíticos:
 ![image](https://user-images.githubusercontent.com/117920423/202634738-c607689e-cc43-4f69-ac71-5aacb86c6841.png)
 
 
+3.4. Calculamos el porcentaje de error presente en nuestros cálculos.
+
+CÁLCULO DE ERRORES:
+
+ERROR%=((Valor teórico - Valor medido)/ Valor teórico)*100%
+
+ERROR% = (|5V-5.05V)/5V)*100% = 1%
+
+ERROR% = (|3V-2.98V)/3V)*100% = 0.6%
+
+4. RESPUESTA A INTERROGANTES Y CÁLCULO DE ERROR
+
+Compare los valores de la tabla 4.1 y realice sus conclusiones.
+
+![image](https://user-images.githubusercontent.com/117920423/202640226-2cfbf5ec-b3ff-4804-948a-758de0952edd.png)
+
+Se puede observar que los resultados analíticos y simulados son iguales pero en la parte experimentales existe cierta variación de datos debido al porcentaje de error presente en la fuente de voltaje, sin embargo, es muy pequeña por ende no afecta mucho al resultado.  
+
+5. VIDEO.
+
+6. CONCLUSIONES.
+
+7. BIBLIOGRAFÍA.
+
+
+
+
 
 
 
