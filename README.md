@@ -24,6 +24,7 @@ ANÁLISIS DE MALLAS.
 
 MAPAS CONCEPTUALES.
 
+![image](https://user-images.githubusercontent.com/117920423/202639218-29b1147e-da66-41e6-bc0d-64f09375aa7d.png)
 
 
 3. EXPLICACIÓN DEL PROCEDIMIENTO.
