@@ -41,6 +41,8 @@ Figura 3.1. Circuito para el análisis de mallas.
 
 3.2. Se construyó el circuito en el laboratorio virtual Tinkercad y también físicamente.
 
+![image](https://user-images.githubusercontent.com/117920423/202724434-51dc57a8-c274-4636-9532-f27b3e2acc79.png)
+
 ![image](https://user-images.githubusercontent.com/117920423/202632375-54e3f4d1-e84d-4977-afca-5e7755600423.png)
 
 ![image](https://user-images.githubusercontent.com/117920423/202632861-e4df229a-2d17-4074-a282-c898482f23f4.png)
@@ -86,10 +88,21 @@ Se puede observar que los resultados analíticos y simulados son iguales pero en
 
 5. VIDEO.
 
+https://youtu.be/Ng5j8GmHA8Y
+
 6. CONCLUSIONES.
+
+-Se concluye lo importante y útil que es el método de cálculo de mallas para poder encontrar la corriente de cada una de las mismas.
+-Concluimos tras el laboratorio el resultado de aprendizaje obtenido aplicando un circuito de manera virtual y física.
+-El video expuesto nos ayudó a interectuar más con el tema y resumirlo mediaticamente.
 
 7. BIBLIOGRAFÍA.
 
+El método de la corriente de malla (artículo). (s. f.). Khan Academy. https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-mesh-current-method
+
+Gouveia, R. (2022, 18 febrero). ¿Qué es la ley de Ohm y cuál es su fórmula? Toda Materia. https://www.todamateria.com/ley-de-ohm/
+
+Repaso de la ley del voltaje de Kirchhoff (artículo). (s. f.). Khan Academy. https://es.khanacademy.org/science/ap-physics-1/ap-circuits-topic/kirchhoffs-loop-rule-ap/a/kirchhoffs-loop-rule-ap1
 
 
 
