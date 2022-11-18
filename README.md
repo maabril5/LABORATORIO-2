@@ -1,7 +1,9 @@
 # LABORATORIO-2
 
 Integrantes: 
+
 Abril Alejandro
+
 Pánchez Pablo
 
 ANÁLISIS DE MALLAS.
@@ -19,6 +21,7 @@ ANÁLISIS DE MALLAS.
 *Mediante un video expositivo reforzar lo estudiado en este laboratorio.
 
 2. MARCO TEÓRICO.
+
 MAPAS CONCEPTUALES.
 
 
