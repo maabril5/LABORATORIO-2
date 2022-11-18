@@ -38,7 +38,7 @@ Los materiales necesarios realizar el laboratorio 2 son:
 
 Figura 3.1. Circuito para el análisis de mallas.
 
-3.1. Se construyó el circuito en el laboratorio virtual Tinkercad y también físicamente.
+3.2. Se construyó el circuito en el laboratorio virtual Tinkercad y también físicamente.
 
 ![image](https://user-images.githubusercontent.com/117920423/202632375-54e3f4d1-e84d-4977-afca-5e7755600423.png)
 
@@ -47,6 +47,23 @@ Figura 3.1. Circuito para el análisis de mallas.
 ![image](https://user-images.githubusercontent.com/117920423/202632932-84e358c4-b522-4e0d-837c-9e2e7f870d77.png)
 
 ![image](https://user-images.githubusercontent.com/117920423/202633019-9082f813-dd03-4518-a649-0077da5c9607.png)
+
+3.3. Se realizaron los respectivos cálculos analíticos para encontrar la corriente presente en cada malla, mediante los datos proporcionados en la figura 3.1.
+
+Se identificaron las tres mallas existentes en el circuito.
+
+![image](https://user-images.githubusercontent.com/117920423/202634517-c6b37375-5108-4470-b416-e1c439ed46a2.png)
+
+Se determinó el sentido de cada corriente y su respectiva polaridad.
+
+![image](https://user-images.githubusercontent.com/117920423/202634580-940320a3-07d5-4ab5-9bd0-e8a694cc21c2.png)
+
+![image](https://user-images.githubusercontent.com/117920423/202634655-9f019065-3ddf-42a8-a109-57684036cba2.png)
+
+Cálculos Analíticos:
+
+![image](https://user-images.githubusercontent.com/117920423/202634738-c607689e-cc43-4f69-ac71-5aacb86c6841.png)
+
 
 
 
