@@ -41,9 +41,9 @@ Figura 3.1. Circuito para el análisis de mallas.
 
 3.2. Se construyó el circuito en el laboratorio virtual Tinkercad y también físicamente.
 
-![image](https://user-images.githubusercontent.com/117920423/202724434-51dc57a8-c274-4636-9532-f27b3e2acc79.png)
-
 ![image](https://user-images.githubusercontent.com/117920423/202632375-54e3f4d1-e84d-4977-afca-5e7755600423.png)
+
+![image](https://user-images.githubusercontent.com/117920423/202724434-51dc57a8-c274-4636-9532-f27b3e2acc79.png)
 
 ![image](https://user-images.githubusercontent.com/117920423/202632861-e4df229a-2d17-4074-a282-c898482f23f4.png)
 
